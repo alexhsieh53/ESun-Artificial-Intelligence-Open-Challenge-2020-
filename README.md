@@ -8,5 +8,6 @@ Flow of AML Detector
 NewsClassifier.ipynb is the training file of classification model of News Article. Used Transformer's BertForSequenceClassification to train it.
 bertTrain_v2.ipynb is the training file of name tagging model of News Article. Used Transformer's BertForTokenClassification to train it.
 
-•	Deployed model with flask web framework on the Azure platform 
+•	Deployed model with flask web framework on the Azure platform
+
 amldetector.py is the inference flask service
