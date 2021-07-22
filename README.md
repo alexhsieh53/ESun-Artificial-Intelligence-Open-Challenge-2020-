@@ -1,1 +1,1 @@
-# ESun-Artificial-Intelligence-Open-Challenge-2020-
+# ESun-Artificial-Intelligence-Open-Challenge-2020
